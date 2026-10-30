@@ -7,3 +7,5 @@ On utilise des fonctions en important les packages
 - Numpy
 - Scikit-learn
 - Matplotlib
+# Cours 3
+Régression Linéaire

@@ -1,4 +1,5 @@
 # Cours Machine-Learning
+Définition: C'est tout simplement donner à une machine la capacité d'apprendre sans la programmer de façon explicit
 # Cour 1
 Manipulation de la matrice et la bibliothèque Numpy
 # Cours 2
